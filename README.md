@@ -9,13 +9,17 @@
 
 
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/ign0r3dh4x0r">
     <img src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg" alt="Logo" width="300" height="300">
   </a>
-
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ign0r3dh4x0r&style=flat-square">
+  </div>
+  
   <h3 align="center">Hello World</h3>
 
   <p align="center">
@@ -66,6 +70,8 @@ Basically I'm a full stack web developer. But I also work with various Python an
 
 ### Skills
 
+**Major technologies I've worked with:**
+
 * Javascript
 * [React.js](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
@@ -76,7 +82,7 @@ Basically I'm a full stack web developer. But I also work with various Python an
 * [Laravel](https://laravel.com/)
 * [NodeJS](https://nodejs.org/)
 * [Python](https://python.org)
-* Seems I've forgotten some stuffs...
+* ...
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -120,4 +126,10 @@ Feel free to contact me.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### My Github Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ign0r3dh4x0r&theme=flat&row=2&column=3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ign0r3dh4x0r&theme=tokyonight">
+</p>
 
