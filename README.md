@@ -21,13 +21,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/ign0r3dh4x0r">
-    <img src="https://avatars.githubusercontent.com/u/69670910" alt="Logo" width="80" height="80">
+    <img src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hello there!</h3>
+  <h3 align="center">Hello World</h3>
 
   <p align="center">
-    I'm Shayer Mahmud Sowmik.
+    It's Shayer Mahmud Sowmik!
     <br />
     <a href="https://github.com/Ign0r3dH4x0r?tab=repositories"><strong>Explore my projects »</strong></a>
     <br />
@@ -47,21 +47,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-me">About Me</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#skills">Built With</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -82,7 +74,7 @@ Basically I'm a full stack web developer. But I also work with various Python an
 
 
 
-### Technologies I've worked in
+### Skills
 
 * Javascript
 * [React.js](https://reactjs.org/)
