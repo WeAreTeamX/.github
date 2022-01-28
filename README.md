@@ -1,40 +1,31 @@
 <div id="top"></div>
 
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
-
-
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/ign0r3dh4x0r">
-    <img src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg" alt="Logo" width="300" height="300">
-  </a>
-  <div align="center">
+<div align="">
+  <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ign0r3dh4x0r&style=flat-square">
+    <br />
   </div>
   
-  <h3 align="center">Hello World</h3>
-
+<!--   <h3 align="">Hello World</h3>
   <p align="center">
     It's Shayer Mahmud Sowmik!
     <br />
-    <br />
     <a href="https://github.com/Ign0r3dH4x0r?tab=repositories"><strong>Explore my projects »</strong></a>
     <br />
-    <br />
-<!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
-  </p>
+  </p> -->
+  
+  
+  ```javascript
+  import { Profile } from "github";
+  Profile.set({
+    name:"Shayer Mahmud Sowmik",
+    github:"ign0r3dh4x0r",
+    job:"student"
+  });
+  ```
+  
+  
 </div>
 
 
@@ -59,20 +50,15 @@
 <!-- ABOUT ME -->
 ## About Me
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
 I'm a tech lover. I love to learn the new & try it out. :smile:
-Basically I'm a full stack web developer. But I also work with various Python and NodeJS based commandline scripts. Trying to learn android app development. My dream is to build career on IT sector. 
-
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
-
+Basically I'm a full stack web developer. Besides, I'm a Linux enthusiast and I also love work with various Python and NodeJS based commandline scripts. I'm learning android app development. My dream is to build career on IT sector. 
 
 
 ### Skills
 
 **Major technologies I've worked with:**
 
-* Javascript
+* [Javascript](#skills)
 * [React.js](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
 * [Bootstrap](https://getbootstrap.com)
@@ -111,12 +97,12 @@ Basically I'm a full stack web developer. But I also work with various Python an
 
 Feel free to contact me.
 
-### Personal 
+***Personal***
 * [Facebook](https://facebook.com/ffsowmik)
 * [Telegram](https://t.me/xowmik)
 * [Instagram](https://instagram.com/itz_sowmik)
 
-### Work 
+***work***
 
 * [Portfolio](https://ign0r3dh4x0r.github.io)
 * [Linktree](https://linktr.ee/xowmik)
