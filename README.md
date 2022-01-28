@@ -1,13 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -21,13 +13,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/ign0r3dh4x0r">
-    <img src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg" alt="Logo" width="80" height="80">
+    <img src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Hello World</h3>
 
   <p align="center">
     It's Shayer Mahmud Sowmik!
+    <br />
     <br />
     <a href="https://github.com/Ign0r3dH4x0r?tab=repositories"><strong>Explore my projects »</strong></a>
     <br />
@@ -54,9 +47,6 @@
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
