@@ -3,7 +3,7 @@
 <br />
 <div align="">
   <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=ign0r3dh4x0r&style=flat-square">
+    <img src="https://profile-counter.glitch.me/%7Bign0r3dh4x0r%7D/count.svg">
     <br />
   </div>
   
