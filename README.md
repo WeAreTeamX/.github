@@ -51,7 +51,7 @@
 ## About Me
 
 I'm a tech lover. I love to learn the new & try it out. :smile:
-Basically I'm a full stack web developer. Besides, I'm a Linux enthusiast and I also love work with various Python and NodeJS based commandline scripts. I'm learning android app development. My dream is to build career on IT sector. 
+Basically I'm a full stack web developer. Besides, I'm a Linux enthusiast and I also love working with various Python and NodeJS. I'm learning android app development. My dream is to build career on IT sector. 
 
 
 ### Skills
@@ -132,21 +132,21 @@ Basically I'm a full stack web developer. Besides, I'm a Linux enthusiast and I 
 Feel free to contact me.
 
 ***Personal***
-* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ffsowmik)
-* [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)
-* [![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_sowmik)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ffsowmik)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)&nbsp;
+[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_sowmik)&nbsp;
 
 ***work***
 
-* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ign0r3dh4x0r.github.io)
-* [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xowmik)
-* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)
-* [![Projects](https://img.shields.io/badge/Projects-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://alphasowmik.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ign0r3dh4x0r.github.io)&nbsp;
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://ign0r3dh4x0r.github.io/linktree.html)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
+[![Projects](https://img.shields.io/badge/Projects-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://alphasowmik.xyz)&nbsp;
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### My Github Stati
+### My Github Stat
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ign0r3dh4x0r&theme=flat&row=2&column=3">
