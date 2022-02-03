@@ -3,12 +3,12 @@
 <br />
 <div align="">
   <div align="right">
-    <img src="https://profile-counter.glitch.me/%7Bign0r3dh4x0r%7D/count.svg">
+    <img src="https://profile-counter.glitch.me/%7BWeAreTeamX%7D/count.svg">
     <br />
   </div>
   
 <!--   <h3 align="">Hello World</h3>
-  <p align="center">
+<!--   <p align="center">
     It's Shayer Mahmud Sowmik!
     <br />
     <a href="https://github.com/Ign0r3dH4x0r?tab=repositories"><strong>Explore my projects »</strong></a>
@@ -156,3 +156,4 @@ Feel free to contact me.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ign0r3dh4x0r&langs_count=8&layout=compact">
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
+ -->
