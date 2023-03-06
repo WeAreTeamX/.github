@@ -27,7 +27,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about">About Us</a>
+      <a href="https://xofikul07.github.io/TEAM-X-PROJECT-STORE/Member/">About Us</a>
     <li>
       <a href="#social">Contact</a>
     </li>
