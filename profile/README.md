@@ -14,7 +14,6 @@
   <h3 align="center">Team X 1337</h3>
   <p align="center">Another Tiny Cyber Team</p>
   <p align="center"><a align="center" href="https://github.com/weareteamx?tab=repositories">Explore our projects »</a></p>
-  <br />
   <p align="center"><a align="center" href="https://weareteamx.github.io/ProjectStore/">View our projects store »</a></p>
   <br />
 </p>
