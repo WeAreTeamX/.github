@@ -12,9 +12,9 @@
 <p align="center">
   <img src="https://i.ibb.co/N3Pydnb/teamx-round.png" width="200px">
   <h3 align="center">Team X 1337</h3>
-  <p align="center">Another Tiny Cyber Team</p>
+  <p align="center">Leets of the Caribbean</p>
   <p align="center"><a align="center" href="https://github.com/weareteamx?tab=repositories">Explore our projects »</a></p>
-  <p align="center"><a align="center" href="https://weareteamx.github.io/ProjectStore/">View our projects store »</a></p>
+  <p align="center"><a align="center" href="https://teamxstore.com/">View our projects store »</a></p>
   <br />
 </p>
   
